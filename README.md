@@ -241,4 +241,4 @@ This repository serves as the official landing page for Age of Empires Mobile. T
 **Get the most recent version of Age of Empires Mobile today!**
 
 ---
-**Last updated:** 2026-11-06 21:20:56 UTC
+**Last updated:** 2026-11-07 01:41:19 UTC
